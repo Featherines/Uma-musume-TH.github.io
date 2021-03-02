@@ -1,27 +1,27 @@
 .item-sprite{width:200px;height:200px;display:inline-block;background-repeat:no-repeat}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR1.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR2.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR3.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR4.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR5.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR6.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SS7.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR8.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR9.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR10.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR12.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR13.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR14.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR15.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR16.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR17.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR18.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR19.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR20.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR21.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR22.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR23.png")}
-.no-webp .item-sprite{background-image:url("../SupportIcon/SSR24.png")}
+.no-webp .item-sprite{background-image:url("https://raw.githubusercontent.com/Featherines/Uma-musume-TH.github.io/main/SupportIcon/SSR1.png");
+.no-webp .item-sprite{background-image:url("https://raw.githubusercontent.com/Featherines/Uma-musume-TH.github.io/main/SupportIcon/SSR2.png");
+.no-webp .item-sprite{background-image:url("https://raw.githubusercontent.com/Featherines/Uma-musume-TH.github.io/main/SupportIcon/SSR3.png");
+.no-webp .item-sprite{background-image:url("https://raw.githubusercontent.com/Featherines/Uma-musume-TH.github.io/main/SupportIcon/SSR4.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR5.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR6.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SS7.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR8.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR9.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR10.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR12.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR13.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR14.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR15.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR16.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR17.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR18.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR19.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR20.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR21.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR22.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR23.png");
+.no-webp .item-sprite{background-image:url("../SupportIcon/SSR24.png");
 
 
 .is__SSR1background-position: -60px -0;}
