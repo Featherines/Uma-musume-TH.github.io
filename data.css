@@ -1,6 +1,5 @@
 .item-sprite{width:200px;height:200px;display:inline-block;background-repeat:no-repeat}
-.item-sprite{background-image:url("https://raw.githubusercontent.com/Featherines/Uma-musume-TH.github.io/main/SupportIcon/SSR1.png");
-.is__SSR1background-position: -60px -0;}
+.item-sprite{background-image:url("https://raw.githubusercontent.com/Featherines/Uma-musume-TH.github.io/main/SupportIcon/SSR1.png");.is__SSR1background-position: -60px -0;}
 .is__SSR2{background-position:-50px -20px;}
 .is__SSR3{background-position:-50px -20px;}
 .is__SSR4{background-position:-100px 0;}
