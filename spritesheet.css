@@ -1,0 +1,29 @@
+.webpage {
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.no-webp .webpage {background-image: url('../SupportIcon/SSR1.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR2.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR3.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR4.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR5.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR6.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SS7.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR8.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR9.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR10.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR12.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR13.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR14.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR15.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR16.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR17.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR18.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR19.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR20.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR21.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR22.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR23.png');}
+.no-webp .webpage {background-image: url('../SupportIcon/SSR24.png');}
+.webp .webpage {background-image: url('../images/webpage_webp/spritesheets/spritesheet.webp');}
